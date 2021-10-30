@@ -38,6 +38,7 @@ Above command shows you the name of your external ethernet adapter.Grab that nam
 ```bash
   bettercap -iface <name_of_eth_adapter> -caplet spoof.cap
 ```
+![alt](https://www.mediafire.com/view/zphorupvo37tcfm/image.png/file)
 Then type:
 ```bash
   hstshijack/hstshijack
